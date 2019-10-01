@@ -1,0 +1,48 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Anakin Skywalker",
+      "email": "ana@mail.starwars.com",
+      "phones": [
+        {
+          "number": "000xxxxyyyy",
+          "type": 0
+        },
+        {
+          "number": "00xxxxyyyy",
+          "type": 2
+        }
+      ],
+      "lastUpdated": "2019-09-25T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "email": "luk@mail.starwars.com",
+      "phones": [
+        {
+          "number": "001xxxxyyyy",
+          "type": 0
+        },
+        {
+          "number": "01xxxxyyyy",
+          "type": 1
+        }
+      ],
+      "lastUpdated": "2019-09-24T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Chewbacca",
+      "email": "che@mail.starwars.com",
+      "phones": [
+        {
+          "number": "02xxxxyyyy",
+          "type": 1
+        }
+      ],
+      "lastUpdated": "2019-09-23T10:00:00.000Z"
+    }
+  ]
+}
